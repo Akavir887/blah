@@ -1,14 +1,14 @@
 {
-  chat_offs = [
+  "chat_offs": [
   "working"
   ],
-  low_offs = [
+  "low_offs": [
   "working"
   ],
-  med_offs = [
+  "med_offs": [
   "working"
   ],
-  high_offs = [
+  "high_offs": [
   "working"
   ]
 }
