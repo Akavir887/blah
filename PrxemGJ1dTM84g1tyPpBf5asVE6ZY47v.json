@@ -20,7 +20,7 @@
         "Vehicle Health Hacks\n- Refilling vehicle health with hacks and/or invincibility is DISALLOWED in DERBY, PTP, CNR\n- Use: /mban 180 minutes (3 hours) - Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
         "Invisibility Hacks\n- Using invisibility hacks of any kind in modes and abusing them in freeroam (if they can deliver damage) is DISALLOWED.\n- Use: /mban 180 minutes (3 hours) & /disarm 60 minutes - Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
         "Jetpack Hacks\n- Using a jetpack that was not given by the server is DISALLOWED.\n- Handled by the server: no action required.\n\n",
-        "Pause Menu Abuse\n- Abusing the pause menu (Esc) to avoid collisions is DISALLOWED in DERBY.\n- Use: /mban 180 minutes (3 hours) - Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
+        "Pause Menu Abuse\n- Abusing the pause menu (ESC) to avoid collisions is DISALLOWED in DERBY, PTP, CNR.\n- Use: /mban 180 minutes (3 hours) - Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
         "Inactivity\n- Inactivity by any means is DISALLOWED in all gamemodes except Freeroam.\n- Use: /mkick\n\n",
         "Spawn Blocking\n- Keeping vehicles on spawn places (Heli Pads) is DISALLOWED.\n- Handled by the server: no action required.\n\n",
         "Large Body Objects\n- Using large body objects anywhere outside Freeroam is DISALLOWED.\n- Use: /mkick - /jail 15 minutes for repeat offenders.\n\n",
