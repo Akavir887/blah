@@ -8,7 +8,7 @@
         "Heli Killing\n- Abusing helicopter blades to kill players is DISALLOWED.\n- Mostly handled by the server. The server automatically kills the vehicle whenever a player gets killed by it. Players should not evade this protection by respawning the vehicle constantly to kill.\n- Use: /jail 15 minutes.\n\n",
         "VIP Features/Commands Abuse\n- Abusing VIP features/commands to disrupt the gameplay of other players is DISALLOWED.\n- Use: /jail 15 minutes\n\n",
         "General Hacks in Duels\n- Using hacks in any kind to gain advantage over your opponent is DISALLOWED. (Fly Hacks, Airbreak, Teleport Hacks, Speed Hacks...)\n- Use /jail 15 minutes\n\n",
-        "Drive-by Spawn Killing\n- Entering vehicles as passenger and shooting players on spawn-points with no driver in the vehicle is DISALLOWED.\n- Use /jail 15 minutes (Freeroam only)\n\n            "
+        "Drive-by Spawn Killing\n- Entering vehicles as passenger and shooting players on spawn-points with no driver in the vehicle is DISALLOWED.\n- Use /jail 15 minutes (Freeroam only)\n\n\n"
     ],
     "med_offs": [
         "Weapon Hacks\n- The following weapon hacks are DISALLOWED:\n(a) Modified weapon reload (blatant).\n(b) Modified bullet interval (example: rapid fire). Use: /disarm 60 minutes.\n- Use: /mban 180 minutes (3 hours) & /disarm 60 minutes - Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
