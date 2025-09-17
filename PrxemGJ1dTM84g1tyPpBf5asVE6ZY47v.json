@@ -7,7 +7,7 @@
         "Ramming\n- Ramming players using Slappers/Kickers (Fugga, Rvanka, Slayer) or Fly Mods (Surfly, Flycar) is DISALLOWED.\n- Use: /jail 15 minutes. (Freeroam only)\n\n",
         "Heli Killing\n- Abusing helicopter blades to kill players is DISALLOWED.\n- Mostly handled by the server. The server automatically kills the vehicle whenever a player gets killed by it. Players should not evade this protection by respawning the vehicle constantly to kill.\n- Use: /jail 15 minutes.\n\n",
         "VIP Features/Commands Abuse\n- Abusing VIP features/commands to disrupt the gameplay of other players is DISALLOWED.\n- Use: /jail 15 minutes\n\n",
-        "General Hacks in Duels\n- Using hacks in any kind to gain advantage over your opponent is DISALLOWED. (Fly Hacks, Airbreak, Teleport Hacks, Speed Hacks...)\n- Use /jail 15 minutes\n\n",
+        "General Hacks in Duels\n- Using hacks in any kind to gain advantage over your opponent is DISALLOWED. (Fly Hacks, Airbreak, Teleport Hacks, Speed Hacks...)\n- Use /jail 15 minutes\n\nNote:\nBullet-related hacks (such as Rapid Fire, Aimbot, Kill Aura) = Disarm only\nAll other hacks (already mentioned above, like Fly Hacks, Airbreak, Teleport Hacks, Speed Hacks, etc.) = /jail\n\n",
         "Drive-by Spawn Killing\n- Entering vehicles as passenger and shooting players on spawn-points with no driver in the vehicle is DISALLOWED.\n- Use /jail 15 minutes (Freeroam only)\n\n"
     ],
     "med_offs": [
@@ -33,13 +33,17 @@
         "Passenger abuse (intentional) (PTP)\n- Entering vehicles as passenger and shooting with no driver in the vehicle is DISALLOWED.\n- Use: /mban 30 minutes\n\n",
         "Cross Teaming (PTP)\n- Teaming up with the opposite team is DISALLOWED.\n- Use /amsg - /mban 30 minutes for repeat offenders.\n\n",
         "Blocking paths (PTP)\n- Spawning a heavy car or bus in order to block a road or a tunnel is DISALLOWED.\n- Use /amsg - /mban 60 minutes for repeat offenders.\n\n",
+        "Water Abuse (standard) (PTP)\n- Applies to everyone (FBI/Police/Terrorists/President/Vice-President; all VIP tiers).\n- Camping or stalling with a land vehicle in water is DISALLOWED.\n- Diamond VIP: Boosting in water is ONLY to escape. Using boost (press 2) to roam or camp in water is DISALLOWED.\n- Use: /amsg (tell them to reach the road/land immediately) - /mban 30 minutes for repeat offenders.\n\n",
+        "Water Abuse (/weather bug exploit) (PTP)\n- Switching to a special weather (example: /weather 6052) then back to normal to drive underwater is an EXPLOIT.\n- Use: /mban 180 minutes - reason: /Weather Bug Abuse (Double punishment length for repeat offenders (maximum 11520 minutes, 8 days)\n\n",
+        "VIP Vehicle-Spawn Water Abuse (/lcar) (PTP)\n- Using /lcar to spawn/respawn a vehicle in or for use underwater to drive underwater or keep floating is VIP feature abuse and water abuse.\n- Use: /mban 60 minutes.\n\n",
         "Evasion (CNR)\n- Evading arrest during the game mode is DISALLOWED.\n- This is mostly handled by the server automatically.\n- Use: /mban 30 minutes\n\n",
         "Cop abuse (CNR)\n- Teaming up with the opposite team is DISALLOWED. For example If you are a robber you should not be working with a cop.\n- Use: /mban 30 minutes\n\n",
         "Teamkilling (CNR)\n- Damaging or killing your teammates is DISALLOWED.\n- Use: /mban 30 minutes\n\n",
         "Spawnkilling (CNR)\n- Robbers continuously killing newly re-spawned cops in their spawn area is DISALLOWED.\n- Use: /mban 30 minutes\n\n",
         "Passenger abuse (intentional) (CNR)\n- Entering vehicles as passenger and shooting with no driver in the vehicle is DISALLOWED.\n- Use: /mban 30 minutes\n\n",
-        "Camping (CNR)\n- Cops camping in Ammunation against robbers is DISALLOWED.\n- Use: /amsg - /mban 30 minutes for repeat offenders.\n\n",
+        "Camping (CNR)\n- Cops/Robbers camping in Ammunation is DISALLOWED.\n- Use: /amsg - /mban 30 minutes for repeat offenders.\n- Cops camping inside Ammunation (example: staying inside for no reason to avoid robbers) is DISALLOWED.\n- Robbers camping outside Ammunation (example: waiting in vehicles for a cop to exit) is DISALLOWED.\n- Cops continuously camping inside the bank to prevent robberies is DISALLOWED.\n- A warning should always be given first.\n- Use: For cops camping the bank → /mban 30 minutes if they refuse to leave.\n- Use: For robbers camping outside Ammunation → /amsg first, then /akill after warning. For repeat offenders, use /mban 30 minutes.\n\n",
         "Killing innocents (CNR)\n- Killing white robbers (innocents) by driving over them, punching them or similar scenarios is disallowed.\n- Use: /amsg - /mban 30 minutes for repeat offenders.\n\n",
+        "Fire Extinguisher Abuse (CNR)\n- Cops using fire extinguisher against robbers in jail is DISALLOWED.\n- Use /amsg - /mban 30 minutes for repeat offenders.\n\n",
         "Camping (Fall)\n- Reaching and camping in glitched/bugged spots in Fall maps is ALLOWED\n- No action required\n\n"
     ],
     "high_offs": [
