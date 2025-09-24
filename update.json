@@ -3,6 +3,6 @@
   "updateurl": "https://github.com/Akavir887/blah/raw/main/KnyWwZO9jZUAI0KIHaxLfx6CtMR1uHQt.luac",
   "immediate": true,
   "force": false,
-  "notice": true,
+  "notice": false,
   "notifs": "on"
 }
