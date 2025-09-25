@@ -4,5 +4,5 @@
   "immediate": false,
   "notice": true,
   "force": false,
-  "notifs": "on"
+  "notifs": "off"
 }
